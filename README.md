@@ -27,7 +27,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Bjornlb21/Bjornlb21/output/snake.svg" alt="Snake animation" />
-
-###
