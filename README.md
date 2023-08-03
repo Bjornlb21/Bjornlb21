@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-[![An image of @bjornlb21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bjornlb21)](https://holopin.io/@bjornlb21)
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
